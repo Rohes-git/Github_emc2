@@ -1,0 +1,2 @@
+Checking for the powershell
+by converting the cmd to the powshell terminal
